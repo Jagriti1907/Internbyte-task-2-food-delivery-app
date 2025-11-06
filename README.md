@@ -1,4 +1,6 @@
 # Internbyte-task-2-food-delivery-app
+prototype link 
+https://www.figma.com/proto/qO9jttlg9VTlzpI1qETd9t/Laptop-Mockup--Community-?node-id=144-104&p=f&t=Do4ndqK33PR6cRPk-1&scaling=scale-down&content-scaling=fixed&page-id=112%3A121&starting-point-node-id=144%3A104
 
 App UI/UX Assessment - Readme
 ​This report provides a positive analysis of the Food Delivery App's UI/UX, highlighting key design and functional strengths observed across its primary screens.
